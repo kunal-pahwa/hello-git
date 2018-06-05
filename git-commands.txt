@@ -1,0 +1,3 @@
+git-init to intailise the a git repository 
+git add- look for the changes made in file
+git commit finally saves the changes you had made in your file
